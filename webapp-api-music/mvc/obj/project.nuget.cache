@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bYdzirWAOudlANmJiM1R8bCMI2+W62+OUl2Dn+S27IPwPRHHiTadHqMabC1rM5r1SMufcwqUGdK52Z5bYs2gFA==",
+  "dgSpecHash": "NCV9J+icWDqYXxT8F/3whVpKoq7OuIm+NiiQrl7WESh/N3lzBlii6hPY1tWLi4KDwBDXLjvPiaWvxRPSk8VV2Q==",
   "success": true,
-  "projectFilePath": "A:\\College\\Course_Work\\DevOps_CSYE7220\\Csye7220\\lab3\\mvc\\asp.net.mvc.csproj",
+  "projectFilePath": "A:\\College\\Course_Work\\DevOps_CSYE7220\\Csye7220\\Assignments\\Devops\\webapp-api-music\\mvc\\asp.net.mvc.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

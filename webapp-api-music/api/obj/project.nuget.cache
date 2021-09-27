@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TXURGP5AvXdfghzp3GAxV85EUcq+uYiwnJ8gTVrG4yiAityKj+0lJwfO+uIlN+aenw+l52bGg8ifMYekdWduAg==",
+  "dgSpecHash": "4+2dZruy/0KYy24OySXMNpgK13J6YoueGTyeGronEO5VN+lG7L4GnzBU96umgDJcy9cfQdRZKFS9z2hMILhkKw==",
   "success": true,
-  "projectFilePath": "A:\\College\\Course_Work\\DevOps_CSYE7220\\Csye7220\\lab3\\api\\jukebox.webapi.csproj",
+  "projectFilePath": "A:\\College\\Course_Work\\DevOps_CSYE7220\\Csye7220\\Assignments\\Devops\\webapp-api-music\\api\\jukebox.webapi.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

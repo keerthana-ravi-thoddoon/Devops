@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "A:\\College\\Course_Work\\DevOps_CSYE7220\\Csye7220\\lab3\\mvc\\asp.net.mvc.csproj": {}
+    "A:\\College\\Course_Work\\DevOps_CSYE7220\\Csye7220\\Assignments\\Devops\\webapp-api-music\\mvc\\asp.net.mvc.csproj": {}
   },
   "projects": {
-    "A:\\College\\Course_Work\\DevOps_CSYE7220\\Csye7220\\lab3\\mvc\\asp.net.mvc.csproj": {
+    "A:\\College\\Course_Work\\DevOps_CSYE7220\\Csye7220\\Assignments\\Devops\\webapp-api-music\\mvc\\asp.net.mvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "A:\\College\\Course_Work\\DevOps_CSYE7220\\Csye7220\\lab3\\mvc\\asp.net.mvc.csproj",
+        "projectUniqueName": "A:\\College\\Course_Work\\DevOps_CSYE7220\\Csye7220\\Assignments\\Devops\\webapp-api-music\\mvc\\asp.net.mvc.csproj",
         "projectName": "asp.net.mvc",
-        "projectPath": "A:\\College\\Course_Work\\DevOps_CSYE7220\\Csye7220\\lab3\\mvc\\asp.net.mvc.csproj",
+        "projectPath": "A:\\College\\Course_Work\\DevOps_CSYE7220\\Csye7220\\Assignments\\Devops\\webapp-api-music\\mvc\\asp.net.mvc.csproj",
         "packagesPath": "C:\\Users\\keert\\.nuget\\packages\\",
-        "outputPath": "A:\\College\\Course_Work\\DevOps_CSYE7220\\Csye7220\\lab3\\mvc\\obj\\",
+        "outputPath": "A:\\College\\Course_Work\\DevOps_CSYE7220\\Csye7220\\Assignments\\Devops\\webapp-api-music\\mvc\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\keert\\AppData\\Roaming\\NuGet\\NuGet.Config",

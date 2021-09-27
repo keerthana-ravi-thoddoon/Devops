@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "A:\\College\\Course_Work\\DevOps_CSYE7220\\Csye7220\\lab3\\api\\jukebox.webapi.csproj",
+      "projectUniqueName": "A:\\College\\Course_Work\\DevOps_CSYE7220\\Csye7220\\Assignments\\Devops\\webapp-api-music\\api\\jukebox.webapi.csproj",
       "projectName": "jukebox.webapi",
-      "projectPath": "A:\\College\\Course_Work\\DevOps_CSYE7220\\Csye7220\\lab3\\api\\jukebox.webapi.csproj",
+      "projectPath": "A:\\College\\Course_Work\\DevOps_CSYE7220\\Csye7220\\Assignments\\Devops\\webapp-api-music\\api\\jukebox.webapi.csproj",
       "packagesPath": "C:\\Users\\keert\\.nuget\\packages\\",
-      "outputPath": "A:\\College\\Course_Work\\DevOps_CSYE7220\\Csye7220\\lab3\\api\\obj\\",
+      "outputPath": "A:\\College\\Course_Work\\DevOps_CSYE7220\\Csye7220\\Assignments\\Devops\\webapp-api-music\\api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\keert\\AppData\\Roaming\\NuGet\\NuGet.Config",
